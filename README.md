@@ -4,7 +4,7 @@ The link of the contest is the following: <br>
 https://www.kaggle.com/c/inf131-data-mining/overview <br>
 and my team was the <b>Team 31</b>(8th position). <br>
 
-<p class=MsoNormal><span lang=EN-US>In this repository there are: &lt;br&gt;</span></p>
+<p class=MsoNormal><span lang=EN-US>In this repository there are: </span></p>
 
 <p class=MsoNormal><span lang=EN-US>The data for the project: </span><a
 href="https://github.com/hoolser/MachineLearning-project/blob/master/train.csv"
